@@ -334,3 +334,5 @@ app.post("/borrowments/new", (req, res) => {
     }
     res.status(200).send('success');
 })
+
+//bakso kontol
